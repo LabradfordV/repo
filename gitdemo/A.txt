@@ -1,4 +1,6 @@
 Alice
 Bob
 Charlie
-Fourth Line
+<<<<<<< HEAD
+Our line
+>>>>>>> b52dfb2093b80a26fbd76d9c98d3a61989bf1ba9
